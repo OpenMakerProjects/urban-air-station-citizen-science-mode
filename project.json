@@ -1,0 +1,20 @@
+{
+  "id": 204,
+  "title": "Urban Air Station Citizen Science Mode",
+  "repository_slug": "urban-air-station-citizen-science-mode",
+  "category": "Environment",
+  "platform": "Particle Boron",
+  "platform_family": "particle",
+  "difficulty": "Advanced",
+  "estimated_hours": 52,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "turbidity sensor",
+    "GPS module"
+  ],
+  "scope": "Build a environment prototype that uses turbidity sensor, GPS module to guide repeatable community observations. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Citizen Science Mode demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.cpp",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
